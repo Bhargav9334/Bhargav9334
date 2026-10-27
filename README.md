@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:bhargavsinha93@gmail.com"><img src="https://img.shields.io/badge/Email-bhargavsinha93%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://portfolio-blush-sigma-22.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-2b3137?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
@@ -76,15 +77,16 @@ Developed responsive React interfaces, integrated REST APIs and improved cross-d
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**crm**](https://github.com/Bhargav9334/crm) | CRM dashboard with analytics charts, CSV import and PDF export | React, Tailwind, Recharts |
-| [**blog**](https://github.com/Bhargav9334/blog) | Full-stack blogging platform with auth, rich-text editor and image uploads | MERN, Redux Toolkit, JWT, Cloudinary |
-| [**project-real-chats**](https://github.com/Bhargav9334/project-real-chats) | Real-time chat application with instant messaging | React, Node.js, Socket.io |
-| [**code-editor**](https://github.com/Bhargav9334/code-editor) | Browser-based code editor powered by Monaco | React, Monaco Editor, Express |
-| [**jwt-project**](https://github.com/Bhargav9334/jwt-project) | Secure authentication system with JWT and hashed passwords | MERN, JWT, bcrypt |
-| [**canvade**](https://github.com/Bhargav9334/canvade) | Business dashboard web app with charts and reporting | React, Vite, Tailwind |
-| [**finance-dashboard**](https://github.com/Bhargav9334/finance-dashboard) | Personal finance dashboard for tracking income and expenses | React, Zustand, Tailwind |
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [**crm**](https://github.com/Bhargav9334/crm) | Agency CRM to manage clients, employees, projects, proposals and invoices with role-based dashboards | React, Tailwind, Recharts | [Demo](https://crm-ivory-two-67.vercel.app) |
+| [**canvade**](https://github.com/Bhargav9334/canvade) | Online course marketplace with course comparison, cart, checkout and chat | React, Vite, Tailwind | [Demo](https://canvade-one.vercel.app) |
+| [**clothing-**](https://github.com/Bhargav9334/clothing-) | Clothing e-commerce store with product pages, cart, wishlist and checkout | React, Vite, Tailwind | [Demo](https://clothing-two-psi.vercel.app) |
+| [**blog**](https://github.com/Bhargav9334/blog) | Full-stack blogging platform with auth, rich-text editor and image uploads | MERN, Redux Toolkit, JWT, Cloudinary | — |
+| [**project-real-chats**](https://github.com/Bhargav9334/project-real-chats) | Real-time chat application with instant messaging | React, Node.js, Socket.io | — |
+| [**jwt-project**](https://github.com/Bhargav9334/jwt-project) | Secure authentication system with JWT and hashed passwords | MERN, JWT, bcrypt | [Demo](https://jwt-project-alpha.vercel.app) |
+| [**finance-dashboard**](https://github.com/Bhargav9334/finance-dashboard) | Personal finance dashboard for tracking income, expenses and transactions | React, Zustand, Tailwind | [Demo](https://finance-dashboard-nine-teal.vercel.app) |
+| [**code-editor**](https://github.com/Bhargav9334/code-editor) | Browser-based code editor powered by Monaco | React, Monaco Editor, Express | — |
 
 ---
 
