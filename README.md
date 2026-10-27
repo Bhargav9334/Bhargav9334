@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:bhargavsinha93@gmail.com"><img src="https://img.shields.io/badge/Email-bhargavsinha93%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://portfolio-blush-sigma-22.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bhargavsinha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-2b3137?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
